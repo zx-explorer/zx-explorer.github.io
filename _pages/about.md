@@ -17,42 +17,183 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Xiyuxing Zhang is a Ph.D. student in the [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/) at Tsinghua University, advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ), [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ). His research focuses on ubiquitous computing and HCI with healthcare using wearables. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research interest includes:
 
+- Wearable Computing
+- Health Sensing and Intervention Techniques
+- On-device Machine Learning / Tiny-ML
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2024.09**: &nbsp;🎉🎉 Our dataset paper DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments is accepted by [Neurips 2024](https://neurips.cc/) as a spotlight!!!
+- **2024.09**: &nbsp;🎉🎉 I am awarded **Deng Feng Scholarship** from Tsinghua University!!!
+- **2024.04**: &nbsp;🎉🎉 Our dataset paper [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) is accepted by [IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/)!!!
+- **2023.04**: Attending [CHI 2023](https://chi2023.acm.org/) and present our work [EarCough: Enabling Continuous Subject Cough Event Detection on Hearables](https://dl.acm.org/doi/abs/10.1145/3544549.3585903)!!!
+- **2023.02**: &nbsp;🎉🎉 Our paper [EarCough](https://dl.acm.org/doi/abs/10.1145/3544549.3585903), about efficient cough detection with the interference of bystanders is accepted by [CHI '23](https://chi2023.acm.org/)!!!
+- **2022.09**: My journey at Tsinghua as a Ph.D. student is started!!!
+- **2022.06**: &nbsp;🎉🎉 Awarded **Outstanding Undergraduate Thesis Honor** by Tsinghua University!!!
+- **2022.05**: &nbsp;🎉🎉 My first research paper about [cough detection on earables](https://www.sciencedirect.com/science/article/pii/S1046202322001165) has been accepted by [Methods](https://www.sciencedirect.com/journal/methods)!!!
 
 # 📝 Publications 
+### JOURNAL PUBLICATIONS
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/EarSAVAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+## The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables ![](https://img.shields.io/github/stars/thuhci/EarSAVAS?style=social)
+
+**Xiyuxing Zhang**, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, Jiankai Tang, Xin Yi, Shwetak Patel, and Yuanchun Shi
+
+[IMWUT](http://imwut.acm.org/). 
+
+<div class="extra-links">
+    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3659616" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+  <a class="_blank" href="https://github.com/thuhci/EarSAVAS">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Methods</div><img src='../images/HearCough.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+## HearCough: Enabling continuous cough event detection on edge computing hearables.
+
+Yuntao Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Jay M Chakalasiya\*, Xuhai Xu, Yu Jiang, Yuang Li, Shwetak Patel, Yuanchun Shi
+
+[Methods](https://www.sciencedirect.com/journal/methods). 
+
+<div class="extra-links">
+    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S1046202322001165" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+#### CONFERENCE PUBLICATIONS
+
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024 Spotlight</div><img src='../images/DreamCatcher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Zeyu Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Ruotong Yu\*, Yuntao Wang, Kenneth Christofferson, Jingru Zhang, Alex Mariakakis, Yuanchun Shi
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[NIPS '24 Spotlight](https://neurips.cc/)
+
+<div class="extra-links">
+    <a class="_blank">
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper (To appear)
+    </a>
+</div>
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='../images/EarCough.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## EarCough: Enabling Continuous Subject Cough Event Detection on Hearables
+
+**Xiyuxing Zhang**, Yuntao Wang, Jingru Zhang, Yaqing Yang, Shwetak Patel, Yuanchun Shi
+
+[CHI EA '23](https://dl.acm.org/doi/proceedings/10.1145/3544549)
+
+<div class="extra-links">
+    <a class="_blank" href="https://dl.acm.org/doi/abs/10.1145/3544549.3585903" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PhysioCHI 2024</div><img src='../images/PhysioCHI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones ![](https://img.shields.io/github/stars/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation?style=social)
+
+Jiankai Tang\*, Xinyi Li\*(\*Co-first Author), Jiacheng Liu, **Xiyuxing Zhang**, Zeyu Wang, Yuntao Wang
+
+[CHI Workshop PhysioCHI 2024](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/). 
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2404.05003" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+      <a class="_blank" href="https://github.com/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/Alpha.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models ![](https://img.shields.io/github/stars/McJackTang/LLM-HealthAssistant?style=social)
+
+
+Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu, Yuntao Wang
+
+[AI Health Summit 2023](https://healthsummit.ai/main/abstracts/). 
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2311.12524" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+      <a class="_blank" href="https://github.com/McJackTang/LLM-HealthAssistant">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* **Deng Feng Scholarship**, Tsinghua University.
+- *2023* **Special Recognitions for Outstanding Reviews**, 2 recognitions for CHI 2024 Papers.
+- *2022* **Outstanding Undergraduate Thesis Honor**, Tsinghua University.
+- *2022* **The Honorable Medal in the Collegiate Computer System & Programing contest**, China Computer Federation (CCF)
+- *2021* **Comprehensive Excellence Scholarship**, Tsinghua University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2027.06 (expected)* Ph.D. in Department of Computer Science and Technology, Tsinghua University.
+- *2018.09 - 2022.06*, B.S. in Department of Computer Science and Technology, Tsinghua University. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.10*, "Can smart earphones hear your cough?", Colloquium of Xinya College, Tsinghua University 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2023.08*, [MainTrend Capital](http://www.maintrendcapital.com/), China.
+
+# 👨🏻‍🎓 Teaching Experience
+- *2022.09 - 2023.01*, Teaching Assistant of "Embedded System" (40240552), Tsinghua University.
+- *2023.09 - 2024.01*, Teaching Assistant of "Embedded System" (40240552), Tsinghua University.
+- *2024.09 - 2025.01*, Teaching Assistant of "Embedded System" (40240552), Tsinghua University.
+- *2024.09 - 2025.01*, Teaching Assistant of "Essentials to Signal Processing and Data Management for AIoT Applications" (86010053), Tsinghua University.
+
+# 💗 Service
+- Conference Reviewers: IMWUT 2023 November, IMWUT 2023 August, IMWUT 2024 May, CHI 2024, CHI 2025
+- Special Recognitions for Outstanding Reviews, 2 recognitions for CHI 2024 Papers.
