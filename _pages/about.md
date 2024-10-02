@@ -179,7 +179,7 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 - *2021* **Comprehensive Excellence Scholarship**, Tsinghua University
 
 # 📖 Educations
-- *2022.09 - 2027.06 (expected)* Ph.D. in Department of Computer Science and Technology, Tsinghua University.
+- *2022.09 - 2027.06 (expected)*, Ph.D. in Department of Computer Science and Technology, Tsinghua University.
 - *2018.09 - 2022.06*, B.S. in Department of Computer Science and Technology, Tsinghua University. 
 
 # 💬 Invited Talks
@@ -194,6 +194,6 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 - *2024.09 - 2025.01*, Teaching Assistant of "Embedded System" (40240552), Tsinghua University.
 - *2024.09 - 2025.01*, Teaching Assistant of "Essentials to Signal Processing and Data Management for AIoT Applications" (86010053), Tsinghua University.
 
-# 💗 Service
+# 💗 Professional Services
 - Conference Reviewers: IMWUT 2023 November, IMWUT 2023 August, IMWUT 2024 May, CHI 2024, CHI 2025
 - Special Recognitions for Outstanding Reviews, 2 recognitions for CHI 2024 Papers.
