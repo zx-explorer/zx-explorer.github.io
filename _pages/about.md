@@ -32,7 +32,7 @@ His research interest includes:
     <div style="flex: 1; max-width: 30%; box-sizing: border-box; text-align: center;">
         <div style="margin: 10px 0; font-size: 16px;">HS Reconstruction & HR Estimation</div>
         <iframe
-            src="https://drive.google.com/file/d/your_second_video_id/preview"
+            src="https://drive.google.com/file/d/1GJ4CZ7PYSU8jgfuGYwI0LVcK05YawWpn/preview"
             frameborder="0"
             allowfullscreen="true"
             style="width: 100%; height: 100%;">
@@ -50,7 +50,7 @@ His research interest includes:
     <div style="flex: 1; max-width: 30%; box-sizing: border-box; text-align: center;">
         <div style="margin: 10px 0; font-size: 16px;">Cough & Throat Clear Detection</div>
         <iframe
-            src="https://drive.google.com/file/d/your_third_video_id/preview"
+            src="https://drive.google.com/file/d/1p3q-Y6Q6ZGeItmb2j83yWSQ1sPpE9BeR/preview"
             frameborder="0"
             allowfullscreen="true"
             style="width: 100%; height: 100%;">
