@@ -27,35 +27,27 @@ His research interest includes:
 
 # 👂🏻 Demo
 
-<div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 60px;">
-    <div style="flex: 1; max-width: 30%; box-sizing: border-box; text-align: center;">
-        <div style="margin: 10px 0; font-size: 16px;">HS Reconstruction & HR Estimation</div>
-        <iframe
-            src="https://drive.google.com/file/d/1GJ4CZ7PYSU8jgfuGYwI0LVcK05YawWpn/preview"
-            frameborder="0"
-            allowfullscreen="true"
-            style="width: 100%; height: 100%;">
-        </iframe>
-    </div>
-    <div style="flex: 1; max-width: 30%; box-sizing: border-box; text-align: center;">
-        <div style="margin: 10px 0; font-size: 16px;">Chewing Detection</div>
-        <iframe
-            src="https://drive.google.com/file/d/1z4c0_FZg9aEFKVBs8UyEmLUGm34v1EDK/preview"
-            frameborder="0"
-            allowfullscreen="true"
-            style="width: 100%; height: 100%;">
-        </iframe>
-    </div>
-    <div style="flex: 1; max-width: 30%; box-sizing: border-box; text-align: center;">
-        <div style="margin: 10px 0; font-size: 16px;">Cough & Throat Clear Detection</div>
-        <iframe
-            src="https://drive.google.com/file/d/1p3q-Y6Q6ZGeItmb2j83yWSQ1sPpE9BeR/preview"
-            frameborder="0"
-            allowfullscreen="true"
-            style="width: 100%; height: 100%;">
-        </iframe>
-    </div>
-</div>
+
+<iframe
+    src="https://drive.google.com/file/d/1GJ4CZ7PYSU8jgfuGYwI0LVcK05YawWpn/preview"
+    frameborder="0"
+    allowfullscreen="true"
+    style="width: 33%; height: 100%;">
+</iframe>
+
+<iframe
+    src="https://drive.google.com/file/d/1z4c0_FZg9aEFKVBs8UyEmLUGm34v1EDK/preview"
+    frameborder="0"
+    allowfullscreen="true"
+    style="width: 33%; height: 100%;">
+</iframe>
+    
+<iframe
+    src="https://drive.google.com/file/d/1p3q-Y6Q6ZGeItmb2j83yWSQ1sPpE9BeR/preview"
+    frameborder="0"
+    allowfullscreen="true"
+    style="width: 33%; height: 100%;">
+</iframe>
 
 # 🔥 News
 
