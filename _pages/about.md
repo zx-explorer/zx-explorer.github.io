@@ -27,7 +27,6 @@ His research interest includes:
 
 # 👂🏻 Demo
 
-<!-- {% include googlevideo.html id=1z4c0_FZg9aEFKVBs8UyEmLUGm34v1EDK/preview %} -->
 <div class="embed-container">
     <iframe
         width="700"
@@ -37,10 +36,6 @@ His research interest includes:
         allowfullscreen="true">
     </iframe>
 </div>
-
-<!-- {% include googlevideo.html id=1GJ4CZ7PYSU8jgfuGYwI0LVcK05YawWpn/preview %} -->
-
-<!-- {% include googlevideo.html id=1p3q-Y6Q6ZGeItmb2j83yWSQ1sPpE9BeR/preview %} -->
 
 # 🔥 News
 
