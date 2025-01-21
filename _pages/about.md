@@ -27,60 +27,36 @@ His research interest includes:
 
 # 👂🏻 Demo
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .video-container {
-            display: flex;
-            justify-content: space-between; /* Adjusts spacing between videos */
-            gap: 10px; /* Adds gap between videos */
-        }
-        .embed-container {
-            flex: 1; /* Allows all videos to have equal width */
-            max-width: 30%; /* Limits the width of each video */
-            box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
-            text-align: center; /* Centers the title text */
-        }
-        iframe {
-            width: 100%;
-            height: 100%;
-        }
-        .video-title {
-            margin: 10px 0; /* Adds space above and below the title */
-            font-size: 16px; /* Adjusts the font size of the title */
-        }
-    </style>
-</head>
-<body>
-    <div class="video-container">
-        <div class="embed-container">
-            <div class="video-title">Chewing Detection</div>
-            <iframe
-                src="https://drive.google.com/file/d/1z4c0_FZg9aEFKVBs8UyEmLUGm34v1EDK/preview"
-                frameborder="0"
-                allowfullscreen="true">
-            </iframe>
-        </div>
-        <div class="embed-container">
-            <div class="video-title">HS Reconstruction & HR Estimation</div>
-            <iframe
-                src="https://drive.google.com/file/d/1GJ4CZ7PYSU8jgfuGYwI0LVcK05YawWpn/preview"
-                frameborder="0"
-                allowfullscreen="true">
-            </iframe>
-        </div>
-        <div class="embed-container">
-            <div class="video-title">Cough & Throat Clear Detection</div>
-            <iframe
-                src="https://drive.google.com/file/d/1p3q-Y6Q6ZGeItmb2j83yWSQ1sPpE9BeR/preview"
-                frameborder="0"
-                allowfullscreen="true">
-            </iframe>
-        </div>
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <div style="flex: 1; max-width: 30%; box-sizing: border-box; text-align: center;">
+        <div style="margin: 10px 0; font-size: 16px;">HS Reconstruction & HR Estimation</div>
+        <iframe
+            src="https://drive.google.com/file/d/your_second_video_id/preview"
+            frameborder="0"
+            allowfullscreen="true"
+            style="width: 100%; height: 100%;">
+        </iframe>
     </div>
-</body>
+    <div style="flex: 1; max-width: 30%; box-sizing: border-box; text-align: center;">
+        <div style="margin: 10px 0; font-size: 16px;">Chewing Detection</div>
+        <iframe
+            src="https://drive.google.com/file/d/1z4c0_FZg9aEFKVBs8UyEmLUGm34v1EDK/preview"
+            frameborder="0"
+            allowfullscreen="true"
+            style="width: 100%; height: 100%;">
+        </iframe>
+    </div>
+    <div style="flex: 1; max-width: 30%; box-sizing: border-box; text-align: center;">
+        <div style="margin: 10px 0; font-size: 16px;">Cough & Throat Clear Detection</div>
+        <iframe
+            src="https://drive.google.com/file/d/your_third_video_id/preview"
+            frameborder="0"
+            allowfullscreen="true"
+            style="width: 100%; height: 100%;">
+        </iframe>
+    </div>
+</div>
 
 # 🔥 News
 
