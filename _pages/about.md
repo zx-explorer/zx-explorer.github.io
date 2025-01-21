@@ -25,7 +25,7 @@ His research interest includes:
 - Health Sensing and Intervention Techniques
 - On-device Machine Learning / Tiny-ML
 
-# 👂🏻 Demo
+# 👂🏻 Earable Sensing Demo
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="width: 32%;">
