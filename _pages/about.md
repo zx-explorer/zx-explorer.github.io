@@ -27,6 +27,32 @@ His research interest includes:
 
 # 👂🏻 Demo
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .video-container {
+            display: flex;
+            justify-content: space-between; /* Adjusts spacing between videos */
+            gap: 10px; /* Adds gap between videos */
+        }
+        .embed-container {
+            flex: 1; /* Allows all videos to have equal width */
+            max-width: 30%; /* Limits the width of each video */
+            box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+            text-align: center; /* Centers the title text */
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+        }
+        .video-title {
+            margin: 10px 0; /* Adds space above and below the title */
+            font-size: 16px; /* Adjusts the font size of the title */
+        }
+    </style>
+</head>
 <body>
     <div class="video-container">
         <div class="embed-container">
