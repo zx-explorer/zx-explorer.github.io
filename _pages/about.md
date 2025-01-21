@@ -27,27 +27,35 @@ His research interest includes:
 
 # 👂🏻 Demo
 
+<div style="width: 32%;">
+    <p style="text-align: center; font-weight: bold;">HS Reconstruction & HR Estimation</p>
+    <iframe
+        src="https://drive.google.com/file/d/1GJ4CZ7PYSU8jgfuGYwI0LVcK05YawWpn/preview"
+        frameborder="0"
+        allowfullscreen="true"
+        style="width: 100%; height: 100%;">
+    </iframe>
+</div>
 
-<iframe
-    src="https://drive.google.com/file/d/1GJ4CZ7PYSU8jgfuGYwI0LVcK05YawWpn/preview"
-    frameborder="0"
-    allowfullscreen="true"
-    style="width: 33%; height: 100%;">
-</iframe>
+<div style="width: 32%;">
+    <p style="text-align: center; font-weight: bold;">Chewing Detection</p>
+    <iframe
+        src="https://drive.google.com/file/d/1z4c0_FZg9aEFKVBs8UyEmLUGm34v1EDK/preview"
+        frameborder="0"
+        allowfullscreen="true"
+        style="width: 100%; height: 100%;">
+    </iframe>
+</div>
 
-<iframe
-    src="https://drive.google.com/file/d/1z4c0_FZg9aEFKVBs8UyEmLUGm34v1EDK/preview"
-    frameborder="0"
-    allowfullscreen="true"
-    style="width: 33%; height: 100%;">
-</iframe>
-    
-<iframe
-    src="https://drive.google.com/file/d/1p3q-Y6Q6ZGeItmb2j83yWSQ1sPpE9BeR/preview"
-    frameborder="0"
-    allowfullscreen="true"
-    style="width: 33%; height: 100%;">
-</iframe>
+<div style="width: 32%;">
+    <p style="text-align: center; font-weight: bold;">Cough & Throat Clear Detection</p>
+    <iframe
+        src="https://drive.google.com/file/d/1p3q-Y6Q6ZGeItmb2j83yWSQ1sPpE9BeR/preview"
+        frameborder="0"
+        allowfullscreen="true"
+        style="width: 100%; height: 100%;">
+    </iframe>
+</div>
 
 # 🔥 News
 
