@@ -27,15 +27,34 @@ His research interest includes:
 
 # 👂🏻 Demo
 
-<div class="embed-container">
-    <iframe
-        width="700"
-        height="480"
-        src="https://drive.google.com/file/d/1z4c0_FZg9aEFKVBs8UyEmLUGm34v1EDK/preview"
-        frameborder="0"
-        allowfullscreen="true">
-    </iframe>
-</div>
+<body>
+    <div class="video-container">
+        <div class="embed-container">
+            <div class="video-title">Chewing Detection</div>
+            <iframe
+                src="https://drive.google.com/file/d/1z4c0_FZg9aEFKVBs8UyEmLUGm34v1EDK/preview"
+                frameborder="0"
+                allowfullscreen="true">
+            </iframe>
+        </div>
+        <div class="embed-container">
+            <div class="video-title">HS Reconstruction & HR Estimation</div>
+            <iframe
+                src="https://drive.google.com/file/d/1GJ4CZ7PYSU8jgfuGYwI0LVcK05YawWpn/preview"
+                frameborder="0"
+                allowfullscreen="true">
+            </iframe>
+        </div>
+        <div class="embed-container">
+            <div class="video-title">Cough & Throat Clear Detection</div>
+            <iframe
+                src="https://drive.google.com/file/d/1p3q-Y6Q6ZGeItmb2j83yWSQ1sPpE9BeR/preview"
+                frameborder="0"
+                allowfullscreen="true">
+            </iframe>
+        </div>
+    </div>
+</body>
 
 # 🔥 News
 
