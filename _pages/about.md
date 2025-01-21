@@ -25,11 +25,22 @@ His research interest includes:
 - Health Sensing and Intervention Techniques
 - On-device Machine Learning / Tiny-ML
 
+# 👂🏻 Demo
+
+{% include googlevideo.html id=1z4c0_FZg9aEFKVBs8UyEmLUGm34v1EDK/preview %}
+
+{% include googlevideo.html id=1GJ4CZ7PYSU8jgfuGYwI0LVcK05YawWpn/preview %}
+
+{% include googlevideo.html id=1p3q-Y6Q6ZGeItmb2j83yWSQ1sPpE9BeR/preview %}
+
 # 🔥 News
+
+- **2024.11**: Awarded the **First Prize** in [Ubiquitous Intelligent Sensing Technology Innovation Application Competition](https://mp.weixin.qq.com/s/MtOsxOmLhCCS2es1rDuPRQ) (Top 5).
+- **2024.10**: &nbsp;🎉🎉 Attend [Ubicomp'24](https://www.ubicomp.org/ubicomp-iswc-2024/) and present our work  [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) !!!
 - **2024.09**: &nbsp;🎉🎉 Our dataset paper DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments is accepted by [Neurips 2024](https://neurips.cc/) as a spotlight!!!
 - **2024.09**: &nbsp;🎉🎉 I am awarded **Deng Feng Scholarship** from Tsinghua University!!!
 - **2024.04**: &nbsp;🎉🎉 Our dataset paper [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) is accepted by [IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/)!!!
-- **2023.04**: Attending [CHI 2023](https://chi2023.acm.org/) and present our work [EarCough: Enabling Continuous Subject Cough Event Detection on Hearables](https://dl.acm.org/doi/abs/10.1145/3544549.3585903)!!!
+- **2023.04**: Attend [CHI 2023](https://chi2023.acm.org/) and present our work [EarCough: Enabling Continuous Subject Cough Event Detection on Hearables](https://dl.acm.org/doi/abs/10.1145/3544549.3585903)!!!
 - **2023.02**: &nbsp;🎉🎉 Our paper [EarCough](https://dl.acm.org/doi/abs/10.1145/3544549.3585903), about efficient cough detection with the interference of bystanders is accepted by [CHI '23](https://chi2023.acm.org/)!!!
 - **2022.09**: My journey at Tsinghua as a Ph.D. student is started!!!
 - **2022.06**: &nbsp;🎉🎉 Awarded **Outstanding Undergraduate Thesis Honor** by Tsinghua University!!!
@@ -40,7 +51,7 @@ His research interest includes:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/EarSAVAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
 ## The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables ![](https://img.shields.io/github/stars/thuhci/EarSAVAS?style=social)
 
 **Xiyuxing Zhang**, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, Jiankai Tang, Xin Yi, Shwetak Patel, and Yuanchun Shi
@@ -170,8 +181,9 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 </div>
 </div>
 
-
 # 🎖 Honors and Awards
+
+- *2024* **Special Recognitions for Outstanding Reviews**, 1 recognition for CHI 2025 Papers.
 - *2024* **Deng Feng Scholarship**, Tsinghua University.
 - *2023* **Special Recognitions for Outstanding Reviews**, 2 recognitions for CHI 2024 Papers.
 - *2022* **Outstanding Undergraduate Thesis Honor**, Tsinghua University.
@@ -183,9 +195,11 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 - *2018.09 - 2022.06*, B.S. in Department of Computer Science and Technology, Tsinghua University. 
 
 # 💬 Invited Talks
-- *2022.10*, "Can smart earphones hear your cough?", Colloquium of Xinya College, Tsinghua University 
+- *2025.1*, ["Continuous Health Sensing and Just-In-Time Adaptive Interventions on Commodity Earables"](https://mp.weixin.qq.com/s/nGURsP5dae3qyKPOfY1T2Q), YIZHE AI
+- *2022.10*, ["Can smart earphones hear your cough?"](https://mp.weixin.qq.com/s/gNdOYRXfQ_fMy39rV3-DcA), Colloquium of Xinya College, Tsinghua University 
 
 # 💻 Internships
+
 - *2023.05 - 2023.08*, [MainTrend Capital](http://www.maintrendcapital.com/), China.
 
 # 👨🏻‍🎓 Teaching Experience
@@ -196,4 +210,4 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 
 # 💗 Professional Services
 - Conference Reviewers: IMWUT 2023 November, IMWUT 2023 August, IMWUT 2024 May, CHI 2024, CHI 2025
-- Special Recognitions for Outstanding Reviews, 2 recognitions for CHI 2024 Papers.
+- Special Recognitions for Outstanding Reviews, 2 recognitions for CHI 2024 Papers & 1 for CHI 2025 paper.
