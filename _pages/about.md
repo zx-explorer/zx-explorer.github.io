@@ -61,7 +61,7 @@ His research interest includes:
 
 # 🔥 News
 
-- **2025.01**: Honored to become a **Visiting Scholar** at CMU (honored to be hosted by [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ)).
+- **2025.01**: Honored to become a **Visiting Scholar** at CMU (honored to be hosted by [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ))!!!
 - **2024.11**: Awarded the **First Prize** in [Ubiquitous Intelligent Sensing Technology Innovation Application Competition](https://mp.weixin.qq.com/s/MtOsxOmLhCCS2es1rDuPRQ) (Top 5).
 - **2024.10**: &nbsp;🎉🎉 Attend [Ubicomp'24](https://www.ubicomp.org/ubicomp-iswc-2024/) and present our work  [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) !!!
 - **2024.09**: &nbsp;🎉🎉 Our dataset paper DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments is accepted by [Neurips 2024](https://neurips.cc/) as a spotlight!!!
