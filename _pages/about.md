@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiyuxing Zhang is a Ph.D. student in the [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/) at Tsinghua University, advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ), [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ). His research focuses on ubiquitous computing and HCI with healthcare using wearables. 
+Xiyuxing Zhang is a Ph.D. student in the [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/) at Tsinghua University, advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ), [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ). He is also honored to collaborate with [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ) in the [Semantic Signal Group](https://www.cs.cmu.edu/~justinc3/) at Carnegie Mellon University. His research focuses on ubiquitous computing and HCI with healthcare using wearables. 
 
 His research interest includes:
 
@@ -61,6 +61,7 @@ His research interest includes:
 
 # 🔥 News
 
+- **2025.01**: Honored to become a **Visiting Scholar** at CMU (honored to be hosted by [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ)).
 - **2024.11**: Awarded the **First Prize** in [Ubiquitous Intelligent Sensing Technology Innovation Application Competition](https://mp.weixin.qq.com/s/MtOsxOmLhCCS2es1rDuPRQ) (Top 5).
 - **2024.10**: &nbsp;🎉🎉 Attend [Ubicomp'24](https://www.ubicomp.org/ubicomp-iswc-2024/) and present our work  [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) !!!
 - **2024.09**: &nbsp;🎉🎉 Our dataset paper DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments is accepted by [Neurips 2024](https://neurips.cc/) as a spotlight!!!
@@ -82,7 +83,7 @@ His research interest includes:
 
 **Xiyuxing Zhang**, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, Jiankai Tang, Xin Yi, Shwetak Patel, and Yuanchun Shi
 
-[IMWUT](http://imwut.acm.org/). 
+[IMWUT](http://imwut.acm.org/)
 
 <div class="extra-links">
     <a class="_blank" href="https://dl.acm.org/doi/10.1145/3659616" >
@@ -105,7 +106,7 @@ His research interest includes:
 
 Yuntao Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Jay M Chakalasiya\*, Xuhai Xu, Yu Jiang, Yuang Li, Shwetak Patel, Yuanchun Shi
 
-[Methods](https://www.sciencedirect.com/journal/methods). 
+[Methods](https://www.sciencedirect.com/journal/methods)
 
 <div class="extra-links">
     <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S1046202322001165" >
@@ -131,8 +132,14 @@ Zeyu Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Ruotong Yu\*, Yuntao Wang,
 [NIPS '24 Spotlight](https://neurips.cc/)
 
 <div class="extra-links">
-    <a class="_blank">
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper (To appear)
+    <a class="_blank" href="https://neurips.cc/virtual/2024/poster/97709" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://huggingface.co/datasets/THU-PI-Sensing/DreamCatcher/tree/main">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Dataset
+    </a>
+    <a class="_blank" href="https://github.com/thuhci/DreamCatcher">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
 </div>
 
@@ -170,7 +177,7 @@ Zeyu Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Ruotong Yu\*, Yuntao Wang,
 
 Jiankai Tang\*, Xinyi Li\*(\*Co-first Author), Jiacheng Liu, **Xiyuxing Zhang**, Zeyu Wang, Yuntao Wang
 
-[CHI Workshop PhysioCHI 2024](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/). 
+[CHI Workshop PhysioCHI 2024](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/)
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/abs/2404.05003" >
@@ -193,7 +200,7 @@ Jiankai Tang\*, Xinyi Li\*(\*Co-first Author), Jiacheng Liu, **Xiyuxing Zhang**,
 
 Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu, Yuntao Wang
 
-[AI Health Summit 2023](https://healthsummit.ai/main/abstracts/). 
+[AI Health Summit 2023](https://healthsummit.ai/main/abstracts/)
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/abs/2311.12524" >
@@ -209,6 +216,7 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 
 # 🎖 Honors and Awards
 
+- *2024* **First Prize** in [Ubiquitous Intelligent Sensing Technology Innovation Application Competition](https://mp.weixin.qq.com/s/MtOsxOmLhCCS2es1rDuPRQ) (Top 5).
 - *2024* **Special Recognitions for Outstanding Reviews**, 1 recognition for CHI 2025 Papers.
 - *2024* **Deng Feng Scholarship**, Tsinghua University.
 - *2023* **Special Recognitions for Outstanding Reviews**, 2 recognitions for CHI 2024 Papers.
