@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiyuxing Zhang is a Ph.D. student in the [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/) at Tsinghua University, advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ), [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ). He is also honored to collaborate with [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ) in the [Semantic Signal Group](https://www.cs.cmu.edu/~justinc3/) at Carnegie Mellon University. His research focuses on ubiquitous computing and HCI with healthcare using wearables. 
+Xiyuxing Zhang is a Ph.D. student in the [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/) at Tsinghua University, advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ), [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ). He is also honored to collaborate with [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ) in the [Semantic Signal Group](https://semanticsignals.com/) at Carnegie Mellon University. His research focuses on ubiquitous computing and HCI with healthcare using wearables. 
 
 His research interest includes:
 
