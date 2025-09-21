@@ -262,7 +262,8 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 - *2023.09 - 2024.01*, Teaching Assistant of "Embedded System" (40240552), Tsinghua University.
 - *2024.09 - 2025.01*, Teaching Assistant of "Embedded System" (40240552), Tsinghua University.
 - *2024.09 - 2025.01*, Teaching Assistant of "Essentials to Signal Processing and Data Management for AIoT Applications" (86010053), Tsinghua University.
+- *2025.09 - 2026.01*, Teaching Assistant of "Essentials to Signal Processing and Data Management for AIoT Applications" (86010053), Tsinghua University.
 
 # 💗 Professional Services
-- Conference Reviewers: IMWUT 2023 November, IMWUT 2023 August, IMWUT 2024 May, CHI 2024, CHI 2025
-- Special Recognitions for Outstanding Reviews, 2 recognitions for CHI 2024 Papers & 1 for CHI 2025 paper.
+- Conference Reviewers: IMWUT 2023, IMWUT 2024, IMWUT 2025, ISWC 2025, CHI 2024, CHI 2025
+- Special Recognitions for Outstanding Reviews, 2 recognitions for CHI 2024 & 1 for CHI 2025 paper & 2 for IMWUT 2025 & 1 for ISWC Briefs and Notes 2025
