@@ -61,13 +61,13 @@ His research interest includes:
 
 # 🔥 News
 
-- **2025.12**: Honored to receive [Outstanding Teaching Assistant Award](https://mp.weixin.qq.com/s/Esu36IaaQX1toLzvidCd2w) of Tsinghua University!!!
-- **2025.12**: Honored to be supported by **China Association for Science and Technology’s Young Elite Scientists Sponsorship Program** (Doctoral Student Special Project)!!!
-- **2025.11**: Awarded the **Third Prize** in the 4th Tsinghua Medicine x Engineering Competition (Translation Track) as the Project Leader for our work on Earable Sleep Management (one of only **7 winning teams out of 52**)!!!
-- **2025.10**: Honored to receive the Tsinghua Friends — Qidong Talent First-class Scholarship!!!
+- **2025.12**: &nbsp;🎉🎉 Honored to receive [Outstanding Teaching Assistant Award](https://mp.weixin.qq.com/s/Esu36IaaQX1toLzvidCd2w) of Tsinghua University!!!
+- **2025.12**: &nbsp;🎉🎉 Honored to be supported by **China Association for Science and Technology’s Young Elite Scientists Sponsorship Program** (Doctoral Student Special Project)!!!
+- **2025.11**: &nbsp;🎉🎉 Awarded the **Third Prize** in the 4th Tsinghua Medicine x Engineering Competition (Translation Track) as the Project Leader for our work on Earable Sleep Management (one of only **7 winning teams out of 52**)!!!
+- **2025.10**: &nbsp;🎉🎉 Honored to receive the Tsinghua Friends — Qidong Talent First-class Scholarship!!!
 - **2025.09**: I will serve as a Student Volunteer (SV) at [Ubicomp'25](https://ubicomp.hosting.acm.org/ubicompiswc2025_wp/). Feel free to reach out in Espoo, Finland 🇫🇮!!!
 - **2025.07**: &nbsp;🎉🎉 Two paper have been accetped by [IMWUT 2025](https://ubicomp.hosting.acm.org/ubicompiswc2025_wp/)!!! 
-- **2025.01**: Honored to become a **Visiting Scholar** at CMU (honored to be hosted by [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ))!!!
+- **2025.01**: &nbsp;🎉🎉 Honored to become a **Visiting Scholar** at CMU (honored to be hosted by [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ))!!!
 - **2024.11**: Awarded the **First Prize** in [Ubiquitous Intelligent Sensing Technology Innovation Application Competition](https://mp.weixin.qq.com/s/MtOsxOmLhCCS2es1rDuPRQ) (Top 5).
 - **2024.10**: &nbsp;🎉🎉 Attend [Ubicomp'24](https://www.ubicomp.org/ubicomp-iswc-2024/) and present our work  [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) !!!
 - **2024.09**: &nbsp;🎉🎉 Our dataset paper DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments have been accepted by [Neurips 2024](https://neurips.cc/) as a spotlight!!!
