@@ -1,0 +1,9 @@
+@misc{tang2024camerabasedremotephysiologysensing,
+      title={Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones}, 
+      author={Jiankai Tang and Xinyi Li and Jiacheng Liu and Xiyuxing Zhang and Zeyu Wang and Yuntao Wang},
+      year={2024},
+      eprint={2404.05003},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2404.05003}, 
+}

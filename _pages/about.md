@@ -22,10 +22,10 @@ Xiyuxing Zhang is a Ph.D. student in the [Pervasive Interaction Lab](https://pi.
 His research interest includes:
 
 - Wearable Computing
-- Health Sensing and Intervention Techniques
+- Sensing supported HealthCare Delivery
 - On-device Machine Learning / Tiny-ML
 
-# 👂🏻 Earable Sensing Demo
+# 👂🏻 On-device Sensing Demo
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="width: 32%;">
@@ -61,17 +61,22 @@ His research interest includes:
 
 # 🔥 News
 
+- **2025.12**: Honored to receive [Outstanding Teaching Assistant Award](https://mp.weixin.qq.com/s/Esu36IaaQX1toLzvidCd2w) of Tsinghua University!!!
+- **2025.12**: Honored to be supported by **China Association for Science and Technology’s Young Elite Scientists Sponsorship Program** (Doctoral Student Special Project)!!!
+- **2025.11**: Awarded the **Third Prize** in the 4th Tsinghua Medicine x Engineering Competition (Translation Track) as the Project Leader for our work on Earable Sleep Management (one of only **7 winning teams out of 52**)!!!
+- **2025.10**: Honored to receive the Tsinghua Friends — Qidong Talent First-class Scholarship!!!
 - **2025.09**: I will serve as a Student Volunteer (SV) at [Ubicomp'25](https://ubicomp.hosting.acm.org/ubicompiswc2025_wp/). Feel free to reach out in Espoo, Finland 🇫🇮!!!
+- **2025.07**: &nbsp;🎉🎉 Two paper have been accetped by [IMWUT 2025](https://ubicomp.hosting.acm.org/ubicompiswc2025_wp/)!!! 
 - **2025.01**: Honored to become a **Visiting Scholar** at CMU (honored to be hosted by [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ))!!!
 - **2024.11**: Awarded the **First Prize** in [Ubiquitous Intelligent Sensing Technology Innovation Application Competition](https://mp.weixin.qq.com/s/MtOsxOmLhCCS2es1rDuPRQ) (Top 5).
 - **2024.10**: &nbsp;🎉🎉 Attend [Ubicomp'24](https://www.ubicomp.org/ubicomp-iswc-2024/) and present our work  [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) !!!
-- **2024.09**: &nbsp;🎉🎉 Our dataset paper DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments is accepted by [Neurips 2024](https://neurips.cc/) as a spotlight!!!
+- **2024.09**: &nbsp;🎉🎉 Our dataset paper DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments have been accepted by [Neurips 2024](https://neurips.cc/) as a spotlight!!!
 - **2024.09**: &nbsp;🎉🎉 I am awarded **Deng Feng Scholarship** from Tsinghua University!!!
-- **2024.04**: &nbsp;🎉🎉 Our dataset paper [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) is accepted by [IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/)!!!
+- **2024.04**: &nbsp;🎉🎉 Our dataset paper [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) have been accepted by [IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/)!!!
 - **2023.04**: Attend [CHI 2023](https://chi2023.acm.org/) and present our work [EarCough: Enabling Continuous Subject Cough Event Detection on Hearables](https://dl.acm.org/doi/abs/10.1145/3544549.3585903)!!!
-- **2023.02**: &nbsp;🎉🎉 Our paper [EarCough](https://dl.acm.org/doi/abs/10.1145/3544549.3585903), about efficient cough detection with the interference of bystanders is accepted by [CHI '23](https://chi2023.acm.org/)!!!
+- **2023.02**: &nbsp;🎉🎉 Our paper [EarCough](https://dl.acm.org/doi/abs/10.1145/3544549.3585903), about efficient cough detection with the interference of bystanders have been accepted by [CHI '23](https://chi2023.acm.org/)!!!
 - **2022.09**: My journey at Tsinghua as a Ph.D. student is started!!!
-- **2022.06**: &nbsp;🎉🎉 Awarded **Outstanding Undergraduate Thesis Honor** by Tsinghua University!!!
+- **2022.06**: &nbsp;🎉🎉 Awarded [**Outstanding Undergraduate Thesis Honor**](https://mp.weixin.qq.com/s/45pzmidzvKVf9eHgtrMS7Q) by Tsinghua University!!!
 - **2022.05**: &nbsp;🎉🎉 My first research paper about [cough detection on earables](https://www.sciencedirect.com/science/article/pii/S1046202322001165) has been accepted by [Methods](https://www.sciencedirect.com/journal/methods)!!!
 
 # 📝 Publications 
@@ -150,7 +155,7 @@ Zeyu Wang, Ruotong Yu, Xiangyang Wang, Jiexin Ding, Jiankai Tang, Jun Fang, Zhe 
 
 Zeyu Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Ruotong Yu\*, Yuntao Wang, Kenneth Christofferson, Jingru Zhang, Alex Mariakakis, Yuanchun Shi
 
-[NIPS '24 Spotlight](https://neurips.cc/)
+[NeurIPS '24 Spotlight](https://neurips.cc/)
 
 <div class="extra-links">
     <a class="_blank" href="https://neurips.cc/virtual/2024/poster/97709" >
@@ -181,6 +186,24 @@ Zeyu Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Ruotong Yu\*, Yuntao Wang,
 
 <div class="extra-links">
     <a class="_blank" href="https://dl.acm.org/doi/abs/10.1145/3544549.3585903" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div><img src='../images/CAFA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Context-Adaptive Hearing Aid Fitting Advisor through Multi-turn Multimodal LLM Conversation
+
+Yingke Ding, Zeyu Wang, **Xiyuxing Zhang**, Hongbin Chen, Zhenan Xu
+
+[UbiComp Companion 2025](https://www.ubicomp.org/ubicomp-iswc-2025/)
+
+<div class="extra-links">
+    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3714394.3750600" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
 </div>
@@ -236,7 +259,10 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 </div>
 
 # 🎖 Honors and Awards
-
+- *2025* **China Association for Science and Technology’s Young Elite Scientists Sponsorship Program (Doctoral Student Special Project, National-level Talent Program)**, China.
+- *2025* **Outstanding Teaching Assistant Award**, Tsinghua University.
+- *2025* **Third Prize** in the 4th Tsinghua Medicine x Engineering Competition (Translation Track, Project Leader, Ranked 4 out of 52).
+- *2025* **Tsinghua Friends - Qidong Talent First-class Scholarship**, Tsinghua University.
 - *2024* **First Prize** in [Ubiquitous Intelligent Sensing Technology Innovation Application Competition](https://mp.weixin.qq.com/s/MtOsxOmLhCCS2es1rDuPRQ) (Top 5).
 - *2024* **Special Recognitions for Outstanding Reviews**, 1 recognition for CHI 2025 Papers.
 - *2024* **Deng Feng Scholarship**, Tsinghua University.
@@ -261,9 +287,10 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 - *2022.09 - 2023.01*, Teaching Assistant of "Embedded System" (40240552), Tsinghua University.
 - *2023.09 - 2024.01*, Teaching Assistant of "Embedded System" (40240552), Tsinghua University.
 - *2024.09 - 2025.01*, Teaching Assistant of "Embedded System" (40240552), Tsinghua University.
-- *2024.09 - 2025.01*, Teaching Assistant of "Essentials to Signal Processing and Data Management for AIoT Applications" (86010053), Tsinghua University.
+- *2024.09 - 2025.01*, Teaching Assistant of "Essentials to Signal Processing and Data Management for AIoT Applications" (86010053), Tsinghua University. (Outstanding Teaching Assistant Award, University Level)
 - *2025.09 - 2026.01*, Teaching Assistant of "Essentials to Signal Processing and Data Management for AIoT Applications" (86010053), Tsinghua University.
 
 # 💗 Professional Services
-- Conference Reviewers: IMWUT 2023, IMWUT 2024, IMWUT 2025, ISWC 2025, CHI 2024, CHI 2025
-- Special Recognitions for Outstanding Reviews, 2 recognitions for CHI 2024 & 1 for CHI 2025 paper & 2 for IMWUT 2025 & 1 for ISWC Briefs and Notes 2025
+- Student Volunteer: Ubicomp 2025
+- Conference Reviewers: IMWUT 2023, IMWUT 2024, IMWUT 2025, ISWC 2025, CHI 2024, CHI 2025, CHI 2026
+- Special Recognitions for Outstanding Reviews, 2 recognitions for CHI 2024 & 1 for CHI 2025 paper & 1 for CHI 2026 & 3 for IMWUT 2025 & 1 for ISWC Briefs and Notes 2025
