@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiyuxing Zhang is a Ph.D. student in the [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/) at Tsinghua University, advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ) and [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ). He is also honored to collaborate with [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ) in the [Semantic Signal Group](https://semanticsignals.com/) at Carnegie Mellon University. His research focuses on ubiquitous computing and HCI with healthcare using wearables. 
+Xiyuxing Zhang is a Ph.D. Candidate in the [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/) at Tsinghua University, advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ) and [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ). He is also honored to collaborate with [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ) in the [Semantic Signals Group](https://semanticsignals.com/) at Carnegie Mellon University. His research focuses on ubiquitous computing and HCI with healthcare using wearables. 
 
 His research interest includes:
 
@@ -25,42 +25,9 @@ His research interest includes:
 - Sensing supported HealthCare Delivery
 - On-device Machine Learning / Tiny-ML
 
-# 👂🏻 On-device Sensing Demo
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="width: 32%;">
-        <p style="text-align: center; font-weight: bold;">HS Reconstruction & HR Estimation</p>
-        <iframe
-            src="https://drive.google.com/file/d/1GJ4CZ7PYSU8jgfuGYwI0LVcK05YawWpn/preview"
-            frameborder="0"
-            allowfullscreen="true"
-            style="width: 100%; height: 100%;">
-        </iframe>
-    </div>
-
-    <div style="width: 32%;">
-        <p style="text-align: center; font-weight: bold;">Chewing Detection</p>
-        <iframe
-            src="https://drive.google.com/file/d/1z4c0_FZg9aEFKVBs8UyEmLUGm34v1EDK/preview"
-            frameborder="0"
-            allowfullscreen="true"
-            style="width: 100%; height: 100%;">
-        </iframe>
-    </div>
-
-    <div style="width: 32%;">
-        <p style="text-align: center; font-weight: bold;">Cough & Throat Clear Detection</p>
-        <iframe
-            src="https://drive.google.com/file/d/1p3q-Y6Q6ZGeItmb2j83yWSQ1sPpE9BeR/preview"
-            frameborder="0"
-            allowfullscreen="true"
-            style="width: 100%; height: 100%;">
-        </iframe>
-    </div>
-</div>
-
 # 🔥 News
 
+- **2026.1**: &nbsp;🎉🎉 Our paper [SonicSieve](https://arxiv.org/abs/2504.10793) and [LubdubDecoder](https://arxiv.org/abs/2509.10764) have been accepted by [ACM CHI'26](https://chi2026.acm.org/).
 - **2025.12**: &nbsp;🎉🎉 Honored to receive [Outstanding Teaching Assistant Award](https://mp.weixin.qq.com/s/Esu36IaaQX1toLzvidCd2w) of Tsinghua University!!!
 - **2025.12**: &nbsp;🎉🎉 Honored to be supported by **China Association for Science and Technology’s Young Elite Scientists Sponsorship Program** (Doctoral Student Special Project)!!!
 - **2025.11**: &nbsp;🎉🎉 Awarded the **Third Prize** in the 4th Tsinghua Medicine x Engineering Competition (Translation Track) as the Project Leader for our work on Earable Sleep Management (one of only **7 winning teams out of 52**)!!!
@@ -80,72 +47,53 @@ His research interest includes:
 - **2022.05**: &nbsp;🎉🎉 My first research paper about [cough detection on earables](https://www.sciencedirect.com/science/article/pii/S1046202322001165) has been accepted by [Methods](https://www.sciencedirect.com/journal/methods)!!!
 
 # 📝 Publications 
-### JOURNAL PUBLICATIONS
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/EarSAVAS.png' alt="sym" width="100%"></div></div>
+### CONFERENCE PUBLICATIONS
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='../images/SonicSieve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables ![](https://img.shields.io/github/stars/thuhci/EarSAVAS?style=social)
+## SonicSieve: Bringing Directional Speech Extraction to Smartphones Using Acoustic Microstructures
 
-**Xiyuxing Zhang**, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, Jiankai Tang, Xin Yi, Shwetak Patel, and Yuanchun Shi
+Kuang Yuan\*, Yifeng Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Chengyi Shen, Swarun Kumar, Justin Chan
 
-[IMWUT](http://imwut.acm.org/)
-
-<div class="extra-links">
-    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3659616" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-  <a class="_blank" href="https://github.com/thuhci/EarSAVAS">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Methods</div><img src='../images/HearCough.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<!-- --------------------------------------------------------------------------------------------------------------- -->
-
-## HearCough: Enabling continuous cough event detection on edge computing hearables.
-
-Yuntao Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Jay M Chakalasiya\*, Xuhai Xu, Yu Jiang, Yuang Li, Shwetak Patel, Yuanchun Shi
-
-[Methods](https://www.sciencedirect.com/journal/methods)
+[CHI '26](https://chi2026.acm.org/)
 
 <div class="extra-links">
-    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S1046202322001165" >
+    <a class="_blank" href="https://arxiv.org/abs/2504.10793" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    &nbsp;
+    <a class="_blank" href="https://www.youtube.com/watch?v=VOfsIZ_QF0o">
+        <i class="fas fa-video" aria-hidden="true"></i> Video
     </a>
 </div>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/Smartring_Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='../images/LubdubDecoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Computing with Smart Rings: A Systematic Literature Review
+## LubDubDecoder: Bringing Micro-Mechanical Cardiac Monitoring to Hearables
 
-Zeyu Wang, Ruotong Yu, Xiangyang Wang, Jiexin Ding, Jiankai Tang, Jun Fang, Zhe He, Zhuojun Li, Tobias Röddiger, Weiye Xu, **Xiyuxing Zhang**, Nan Gao, Chun Yu, Yuanchun Shi, Yuntao Wang
+Siqi Zhang\*, **Xiyuxing Zhang\***(\*Co-first Author), Duc Vu\*, Tao Qiang\*, Clara Palacios, Jiangyifei Zhu, Yuntao Wang, Mayank Goel, Justin Chan
 
-[IMWUT](http://imwut.acm.org/)
+[CHI '26](https://chi2026.acm.org/)
 
 <div class="extra-links">
-    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3659616" >
+    <a class="_blank" href="https://arxiv.org/abs/2509.10764" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    &nbsp;
+    <a class="_blank" href="https://www.youtube.com/watch?v=_73TTL4x3Fo">
+        <i class="fas fa-video" aria-hidden="true"></i> Video
     </a>
 </div>
 
 </div>
 </div>
-
-
-<!-- --------------------------------------------------------------------------------------------------------------- -->
-
-#### CONFERENCE PUBLICATIONS
-
 
 <!-- --------------------------------------------------------------------------------------------------------------- -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024 Spotlight</div><img src='../images/DreamCatcher.png' alt="sym" width="100%"></div></div>
@@ -257,6 +205,71 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 
 </div>
 </div>
+
+### JOURNAL PUBLICATIONS
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/EarSAVAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables ![](https://img.shields.io/github/stars/thuhci/EarSAVAS?style=social)
+
+**Xiyuxing Zhang**, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, Jiankai Tang, Xin Yi, Shwetak Patel, and Yuanchun Shi
+
+[IMWUT](http://imwut.acm.org/)
+
+<div class="extra-links">
+    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3659616" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+  <a class="_blank" href="https://github.com/thuhci/EarSAVAS">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Methods</div><img src='../images/HearCough.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+## HearCough: Enabling continuous cough event detection on edge computing hearables.
+
+Yuntao Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Jay M Chakalasiya\*, Xuhai Xu, Yu Jiang, Yuang Li, Shwetak Patel, Yuanchun Shi
+
+[Methods](https://www.sciencedirect.com/journal/methods)
+
+<div class="extra-links">
+    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S1046202322001165" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/Smartring_Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Computing with Smart Rings: A Systematic Literature Review
+
+Zeyu Wang, Ruotong Yu, Xiangyang Wang, Jiexin Ding, Jiankai Tang, Jun Fang, Zhe He, Zhuojun Li, Tobias Röddiger, Weiye Xu, **Xiyuxing Zhang**, Nan Gao, Chun Yu, Yuanchun Shi, Yuntao Wang
+
+[IMWUT](http://imwut.acm.org/)
+
+<div class="extra-links">
+    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3659616" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
+
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
 
 # 🎖 Honors and Awards
 - *2025* **China Association for Science and Technology’s Young Elite Scientists Sponsorship Program (Doctoral Student Special Project, National-level Talent Program)**, China.
