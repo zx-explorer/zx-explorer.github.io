@@ -65,7 +65,7 @@ Kuang Yuan\*, Yifeng Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Chengyi Sh
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
     &nbsp;
-    <a class="_blank" href="https://www.youtube.com/watch?v=VOfsIZ_QF0o">
+    <a class="_blank" href="https://youtu.be/ZXxkLvVxmDo">
         <i class="fas fa-video" aria-hidden="true"></i> Video
     </a>
 </div>
