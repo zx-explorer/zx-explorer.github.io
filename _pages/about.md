@@ -27,6 +27,7 @@ His research interest includes:
 
 # 🔥 News
 
+- **2026.2**: &nbsp;🎉🎉 Two of our papers have been accepted by [ACM CHI EA '26](https://chi2026.acm.org/)!!!
 - **2026.1**: &nbsp;🎉🎉 Our paper [SonicSieve](https://arxiv.org/abs/2504.10793) and [LubdubDecoder](https://arxiv.org/abs/2509.10764) have been accepted by [ACM CHI'26](https://chi2026.acm.org/).
 - **2025.12**: &nbsp;🎉🎉 Honored to receive [Outstanding Teaching Assistant Award](https://mp.weixin.qq.com/s/Esu36IaaQX1toLzvidCd2w) of Tsinghua University!!!
 - **2025.12**: &nbsp;🎉🎉 Honored to be supported by **China Association for Science and Technology’s Young Elite Scientists Sponsorship Program** (Doctoral Student Special Project)!!!
@@ -205,6 +206,34 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 
 </div>
 </div>
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2026</div><img src='../images/RingInteraction.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Control at Your Fingertips: How Close Are We to Effective Ring-Based Interaction?
+
+Lily Sheng, Xingjian Tian, Ruotong Yu, **Xiyuxing Zhang**, Yuntao Wang, Yuanchun Shi
+
+[CHI EA '26](https://chi2026.acm.org/)
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2026</div><img src='../images/3DMAGIC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## 3D-MAGIC: Expanding MAGIC Pointing to Stereoscopic Displays
+
+Xingjian Tian, Lily Sheng, **Xiyuxing Zhang**, Xingru Chen, Fangfei Gou, Zhenzhou Zhang, Wanjun Lv, Liuxin Zhang, Yuntao Wang, Yuanchun Shi
+
+[CHI EA '26](https://chi2026.acm.org/)
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
 
 ### JOURNAL PUBLICATIONS
 
