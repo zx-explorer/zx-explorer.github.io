@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiyuxing Zhang is a Ph.D. Candidate in the [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/) at Tsinghua University, advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ) and [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ). He is also honored to collaborate with [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ) in the [Semantic Signals Group](https://semanticsignals.com/) at Carnegie Mellon University. His research focuses on ubiquitous computing and HCI with healthcare using wearables. 
+Xiyuxing Zhang is a Ph.D. Candidate in the [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/) at Tsinghua University, advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ) and [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ). He is also honored to collaborate with [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ) in the [Semantic Signals Lab](https://semanticsignals.com/) at Carnegie Mellon University. His research focuses on ubiquitous computing and HCI with healthcare using wearables. 
 
 His research interest includes:
 
@@ -27,6 +27,7 @@ His research interest includes:
 
 # 🔥 News
 
+- **2026.4**: &nbsp; Co-organizing the 1st <a href="https://mobidx.health/" target="_blank"><img src="/images/mobidx-workshop-2026.png" width="80" alt="MobiDx workshop at MobiCom 2026"></a> Workshop on Hot Topics in Mobile and Wireless Systems for Health at MobiCom 2026, Austin, TX. Please consider submitting your work!!!
 - **2026.2**: &nbsp;🎉🎉 Two of our papers have been accepted by [ACM CHI EA '26](https://chi2026.acm.org/)!!!
 - **2026.1**: &nbsp;🎉🎉 Our paper [SonicSieve](https://arxiv.org/abs/2504.10793) and [LubdubDecoder](https://arxiv.org/abs/2509.10764) have been accepted by [ACM CHI'26](https://chi2026.acm.org/).
 - **2025.12**: &nbsp;🎉🎉 Honored to receive [Outstanding Teaching Assistant Award](https://mp.weixin.qq.com/s/Esu36IaaQX1toLzvidCd2w) of Tsinghua University!!!
@@ -37,10 +38,10 @@ His research interest includes:
 - **2025.07**: &nbsp;🎉🎉 Two paper have been accetped by [IMWUT 2025](https://ubicomp.hosting.acm.org/ubicompiswc2025_wp/)!!! 
 - **2025.01**: &nbsp;🎉🎉 Honored to become a **Visiting Scholar** at CMU (honored to be hosted by [Prof. Justin Chan](https://scholar.google.com/citations?user=dpyzXwMAAAAJ))!!!
 - **2024.11**: Awarded the **First Prize** in [Ubiquitous Intelligent Sensing Technology Innovation Application Competition](https://mp.weixin.qq.com/s/MtOsxOmLhCCS2es1rDuPRQ) (Top 5).
-- **2024.10**: &nbsp;🎉🎉 Attend [Ubicomp'24](https://www.ubicomp.org/ubicomp-iswc-2024/) and present our work  [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) !!!
-- **2024.09**: &nbsp;🎉🎉 Our dataset paper DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments have been accepted by [Neurips 2024](https://neurips.cc/) as a spotlight!!!
+- **2024.10**: &nbsp;🎉🎉 Present our work on [Ubicomp'24](https://www.ubicomp.org/ubicomp-iswc-2024/): [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616)!!!
+- **2024.09**: &nbsp;🎉🎉 DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments have been accepted by [Neurips 2024](https://neurips.cc/) as a spotlight!!!
 - **2024.09**: &nbsp;🎉🎉 I am awarded **Deng Feng Scholarship** from Tsinghua University!!!
-- **2024.04**: &nbsp;🎉🎉 Our dataset paper [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) have been accepted by [IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/)!!!
+- **2024.04**: &nbsp;🎉🎉 [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) have been accepted by [IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/)!!!
 - **2023.04**: Attend [CHI 2023](https://chi2023.acm.org/) and present our work [EarCough: Enabling Continuous Subject Cough Event Detection on Hearables](https://dl.acm.org/doi/abs/10.1145/3544549.3585903)!!!
 - **2023.02**: &nbsp;🎉🎉 Our paper [EarCough](https://dl.acm.org/doi/abs/10.1145/3544549.3585903), about efficient cough detection with the interference of bystanders have been accepted by [CHI '23](https://chi2023.acm.org/)!!!
 - **2022.09**: My journey at Tsinghua as a Ph.D. student is started!!!
