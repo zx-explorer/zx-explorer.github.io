@@ -218,6 +218,12 @@ Lily Sheng, Xingjian Tian, Ruotong Yu, **Xiyuxing Zhang**, Yuntao Wang, Yuanchun
 
 [CHI EA '26](https://chi2026.acm.org/)
 
+<div class="extra-links">
+    <a class="_blank" href="https://dl.acm.org/doi/full/10.1145/3772363.3798357" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
 </div>
 </div>
 <!-- --------------------------------------------------------------------------------------------------------------- -->
@@ -231,6 +237,12 @@ Lily Sheng, Xingjian Tian, Ruotong Yu, **Xiyuxing Zhang**, Yuntao Wang, Yuanchun
 Xingjian Tian, Lily Sheng, **Xiyuxing Zhang**, Xingru Chen, Fangfei Gou, Zhenzhou Zhang, Wanjun Lv, Liuxin Zhang, Yuntao Wang, Yuanchun Shi
 
 [CHI EA '26](https://chi2026.acm.org/)
+
+<div class="extra-links">
+    <a class="_blank" href="https://dl.acm.org/doi/full/10.1145/3772363.3798896" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
 
 </div>
 </div>
