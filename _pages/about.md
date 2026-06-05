@@ -27,6 +27,7 @@ His research interest includes:
 
 # 🔥 News
 
+- **2026.6**: Invited to serve on the Technical Program Committee (TPC) for the Notes and Briefs track of UbiComp/ISWC 2026.
 - **2026.5**: Invited to serve as a member of Artifact Evaluation Committee for [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/).
 - **2026.4**: Co-organizing the 1st <a href="https://mobidx.health/" target="_blank"><img src="/images/mobidx-workshop-2026.png" width="80" alt="MobiDx workshop at MobiCom 2026"></a> Workshop on Hot Topics in Mobile and Wireless Systems for Health at MobiCom 2026, Austin, TX. Please consider submitting your work!!!
 - **2026.2**: &nbsp;🎉🎉 Two of our papers have been accepted by [ACM CHI EA '26](https://chi2026.acm.org/)!!!
@@ -348,6 +349,7 @@ Zeyu Wang, Ruotong Yu, Xiangyang Wang, Jiexin Ding, Jiankai Tang, Jun Fang, Zhe 
 
 # 💗 Professional Services
 - Artifact Evaluation Committee of ACM MobiCom 2026
+- Technical Program Committee for the Notes and Briefs track of UbiComp/ISWC 2026
 - Student Volunteer of Ubicomp 2025
 - Reviewers of IMWUT 2023, IMWUT 2024, IMWUT 2025, ISWC 2025, CHI 2024, CHI 2025, CHI 2026, UIST 2026
 - Special Recognitions for Outstanding Reviews, 2 recognitions for CHI 2024 & 1 for CHI 2025 paper & 1 for CHI 2026 & 3 for IMWUT 2025 & 1 for ISWC Briefs and Notes 2025
