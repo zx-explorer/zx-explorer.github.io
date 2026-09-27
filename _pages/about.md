@@ -27,6 +27,10 @@ His research interest includes:
 
 # 🔥 News
 
+- **2026.7**: &nbsp;🎉🎉 [EarInter](#paper-earinter), [VergeIO](#paper-vergeio), and [AuthGlass](#paper-authglass) have been accepted to [UbiComp 2026](https://ubicomp.org/ubicomp-iswc-2026/) (IMWUT)!
+- **2026.7**: &nbsp;🎉🎉 [WeeCare](#paper-weecare) has been accepted to [ISWC 2026](https://ubicomp.org/ubicomp-iswc-2026/)!
+- **2026.6**: &nbsp;🎉🎉 [Earmony](#paper-earmony) has been accepted to [UIST 2026](https://uist.acm.org/2026/)!
+- **2026.6**: &nbsp;🎉🎉 [HealthRing](#paper-healthring) has been published in [Scientific Data](https://www.nature.com/articles/s41597-026-07289-x)!
 - **2026.6**: Invited to serve on the Technical Program Committee (TPC) for the Notes and Briefs track of UbiComp/ISWC 2026.
 - **2026.5**: Invited to serve as a member of Artifact Evaluation Committee for [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/).
 - **2026.4**: Co-organizing the 1st <a href="https://mobidx.health/" target="_blank"><img src="/images/mobidx-workshop-2026.png" width="80" alt="MobiDx workshop at MobiCom 2026"></a> Workshop on Hot Topics in Mobile and Wireless Systems for Health at MobiCom 2026, Austin, TX. Please consider submitting your work!!!
@@ -54,8 +58,48 @@ His research interest includes:
 
 ### CONFERENCE PUBLICATIONS
 
+<div class='paper-box' id='paper-earmony'><div class='paper-box-image'><div><div class="badge">UIST 2026</div><a class="paper-figure" href="/images/Earmony-2026.webp" target="_blank" rel="noopener" title="View full publication figure"><img src='/images/Earmony-2026.webp' alt="Earmony: cardiorespiratory sensing and adaptive auditory guidance using earbuds" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='../images/SonicSieve.png' alt="sym" width="100%"></div></div>
+## Earmony: Orchestrating Adaptive Auditory Cardio-Respiratory Biofeedback on Commodity Earables
+
+Lily Sheng\*, Ruiqi Hong\*, **Xiyuxing Zhang\***(\*Co-first Author), Yuntao Wang, Ruotong Yu, Xingjian Tian, Yuanchun Shi
+
+[UIST 2026](https://uist.acm.org/2026/)
+
+<div class="extra-links">
+    <a href="/files/Earmony-2026.pdf" target="_blank" rel="noopener">
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box' id='paper-weecare'><div class='paper-box-image'><div><div class="badge">ISWC 2026</div><a class="paper-figure" href="/images/publication-concepts/WeeCare.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/WeeCare.webp" alt="WeeCare concept: a caregiver checks bladder fullness with a conformable sensing pad on the lower abdomen" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+## WeeCare: Towards Handheld Bladder Fullness Sensing with a Conformable Pad
+
+Zhikai Qin, Siqi Zhang, Shuyi Zeng, **Xiyuxing Zhang**, Junyi Zhu, Justin Chan
+
+[ISWC 2026](https://ubicomp.org/ubicomp-iswc-2026/)
+
+<div class="extra-links">
+    <a href="/files/WeeCare-2026.pdf" target="_blank" rel="noopener">
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    &nbsp;
+    <a href="https://www.youtube.com/watch?v=LfgLJ8Fob9Q&amp;list=PL5YA5MinpPCAIYTxvI_qCNt1qUAR2wlW7&amp;index=2" target="_blank" rel="noopener">
+        <i class="fas fa-video" aria-hidden="true"></i> Video
+    </a>
+</div>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><a class="paper-figure" href="/images/SonicSieve.png" target="_blank" rel="noopener" title="View full publication figure"><img src='../images/SonicSieve.png' alt="SonicSieve publication figure" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## SonicSieve: Bringing Directional Speech Extraction to Smartphones Using Acoustic Microstructures
@@ -77,7 +121,7 @@ Kuang Yuan\*, Yifeng Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Chengyi Sh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='../images/LubdubDecoder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><a class="paper-figure" href="/images/publication-concepts/LubDubDecoder.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/LubDubDecoder.webp" alt="LubDubDecoder concept: reconstructing seismocardiogram and gyrocardiogram signals from ear-based cardiac sounds" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## LubDubDecoder: Bringing Micro-Mechanical Cardiac Monitoring to Hearables
@@ -100,7 +144,7 @@ Siqi Zhang\*, **Xiyuxing Zhang\***(\*Co-first Author), Duc Vu\*, Tao Qiang\*, Cl
 </div>
 
 <!-- --------------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024 Spotlight</div><img src='../images/DreamCatcher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024 Spotlight</div><a class="paper-figure" href="/images/publication-concepts/DreamCatcher.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/DreamCatcher.webp" alt="DreamCatcher concept: paired earable audio and motion recordings form a wearer-aware sleep event dataset" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments
@@ -127,7 +171,7 @@ Zeyu Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Ruotong Yu\*, Yuntao Wang,
 
 
 <!-- --------------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='../images/EarCough.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><a class="paper-figure" href="/images/publication-concepts/EarCough.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/EarCough.webp" alt="EarCough concept: recognizing the wearer's cough amid other people and environmental sounds" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## EarCough: Enabling Continuous Subject Cough Event Detection on Hearables
@@ -145,7 +189,7 @@ Zeyu Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Ruotong Yu\*, Yuntao Wang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div><img src='../images/CAFA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div><a class="paper-figure" href="/images/publication-concepts/CAFA.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/CAFA.webp" alt="CAFA concept: a hearing aid fitting advisor combines hearing profile, ambient sound and conversational feedback" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Context-Adaptive Hearing Aid Fitting Advisor through Multi-turn Multimodal LLM Conversation
@@ -166,7 +210,7 @@ Yingke Ding, Zeyu Wang, **Xiyuxing Zhang**, Hongbin Chen, Zhenan Xu
 
 
 <!-- --------------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PhysioCHI 2024</div><img src='../images/PhysioCHI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PhysioCHI 2024</div><a class="paper-figure" href="/images/publication-concepts/PhysioCHI.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/PhysioCHI.webp" alt="Camera-based rPPG concept: extracting pulse signals from facial video across skin tones" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones ![](https://img.shields.io/github/stars/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation?style=social)
@@ -188,7 +232,7 @@ Jiankai Tang\*, Xinyi Li\*(\*Co-first Author), Jiacheng Liu, **Xiyuxing Zhang**,
 </div>
 <!-- --------------------------------------------------------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/Alpha.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><a class="paper-figure" href="/images/publication-concepts/ALPHA.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/ALPHA.webp" alt="ALPHA concept: interpreting physiological signals and personal context with a large language model" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models ![](https://img.shields.io/github/stars/McJackTang/LLM-HealthAssistant?style=social)
@@ -211,7 +255,7 @@ Jiankai Tang, Kegang Wang, Hongming Hu, **Xiyuxing Zhang**, Peiyu Wang, Xin Liu,
 </div>
 
 <!-- --------------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2026</div><img src='../images/RingInteraction.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2026</div><a class="paper-figure" href="/images/RingInteraction.jpg" target="_blank" rel="noopener" title="View full publication figure"><img src="/images/publication-previews/RingInteraction.png" alt="Ring interaction: illustrated use of a thumb-controlled ring for cursor input" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Control at Your Fingertips: How Close Are We to Effective Ring-Based Interaction?
@@ -231,7 +275,7 @@ Lily Sheng, Xingjian Tian, Ruotong Yu, **Xiyuxing Zhang**, Yuntao Wang, Yuanchun
 <!-- --------------------------------------------------------------------------------------------------------------- -->
 
 <!-- --------------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2026</div><img src='../images/3DMAGIC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2026</div><a class="paper-figure" href="/images/3DMAGIC.jpg" target="_blank" rel="noopener" title="View full publication figure"><img src='../images/3DMAGIC.jpg' alt="3DMAGIC publication figure" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## 3D-MAGIC: Expanding MAGIC Pointing to Stereoscopic Displays
@@ -252,7 +296,99 @@ Xingjian Tian, Lily Sheng, **Xiyuxing Zhang**, Xingru Chen, Fangfei Gou, Zhenzho
 
 ### JOURNAL PUBLICATIONS
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/EarSAVAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id='paper-vergeio'><div class='paper-box-image'><div><div class="badge">IMWUT 2026</div><a class="paper-figure" href="/images/publication-previews/VergeIO-selected.webp" target="_blank" rel="noopener" title="View full VergeIO figure"><img src="/images/publication-previews/VergeIO-selected.webp" alt="VergeIO: an older adult wearing the prototype glasses, the EOG electrode hardware, and the EOG waveform during changes in viewing distance" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+## VergeIO: Depth-Aware Eye Interaction on Glasses
+
+**Xiyuxing Zhang**\*, Duc Vu\*, Chengyi Shen, Zhikai Qin, Ruiqi Hong, Yuntao Wang, Yuanchun Shi, Justin Chan
+
+<small>*Equal contribution.</small>
+
+IMWUT 2026 / [UbiComp 2026](https://ubicomp.org/ubicomp-iswc-2026/)
+
+<div class="extra-links">
+    <a href="/files/VergeIO-2026.pdf" target="_blank" rel="noopener">
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    &nbsp;
+    <a href="https://www.youtube.com/watch?v=f88vboVKATA&amp;list=PL5YA5MinpPCAIYTxvI_qCNt1qUAR2wlW7&amp;index=3" target="_blank" rel="noopener">
+        <i class="fas fa-video" aria-hidden="true"></i> Video
+    </a>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box' id='paper-earinter'><div class='paper-box-image'><div><div class="badge">IMWUT 2026</div><a class="paper-figure" href="/images/EarInter-2026.webp" target="_blank" rel="noopener" title="View full publication figure"><img src='/images/EarInter-2026.webp' alt="EarInter conceptual illustration: eating sensing, pace detection, voice prompts, and pace adjustment in a closed loop" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+## EarInter: A Closed-Loop System for Eating Pace Regulation with Just-in-Time Intervention Using Commodity Earbuds
+
+Jun Fang\*, Ka I Chan\*, **Xiyuxing Zhang\***(\*Co-first Author), Yuntao Wang, Mingze Gao, Leyi Peng, Jiajin Li, Zihang Zhan, Zhixin Zhao, Yuanchun Shi
+
+IMWUT 2026 / [UbiComp 2026](https://ubicomp.org/ubicomp-iswc-2026/)
+
+<div class="extra-links">
+    <a href="/files/EarInter-2026.pdf" target="_blank" rel="noopener">
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box' id='paper-authglass'><div class='paper-box-image'><div><div class="badge">IMWUT 2026</div><a class="paper-figure" href="/images/AuthGlass-2026.webp" target="_blank" rel="noopener" title="View full publication figure"><img src='/images/AuthGlass-2026.webp' alt="AuthGlass conceptual illustration: voiceprint, vibration, and sound-field features for wearer verification and rejection of impersonation, audio injection, and non-wearer input" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+## AuthGlass: Benchmarking Voice Liveness Detection and Authentication on Smart Glasses via Comprehensive Acoustic Features
+
+Weiye Xu, Zhang Jiang, Siqi Zheng, **Xiyuxing Zhang**, Changhao Zhang, Jian Liu, Weiqiang Wang, Yuntao Wang
+
+IMWUT 2026 / [UbiComp 2026](https://ubicomp.org/ubicomp-iswc-2026/)
+
+<div class="extra-links">
+    <a href="https://arxiv.org/pdf/2509.20799" target="_blank" rel="noopener">
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    &nbsp;
+    <a href="https://arxiv.org/abs/2509.20799" target="_blank" rel="noopener">arXiv</a>
+    &nbsp;
+    <a href="https://github.com/xuy8w89/IMWUT2026-AuthGlass" target="_blank" rel="noopener">
+        <i class="fab fa-github" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box' id='paper-healthring'><div class='paper-box-image'><div><div class="badge">Scientific Data 2026</div><a class="paper-figure" href="/images/publication-previews/HealthRing-figure3a.webp" target="_blank" rel="noopener" title="View original HealthRing data collection setup"><img src="/images/publication-previews/HealthRing-figure3a.webp" alt="HealthRing data collection setup with reflective and transmissive rings, commercial rings, a blood pressure monitor, a respiratory sensor, and an oximeter" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+## HealthRing: Physiology Dataset for Health Sensing on Rings
+
+Jiankai Tang, Kegang Wang, Yingke Ding, Jiatong Ji, Yi Wang, Zeyu Wang, **Xiyuxing Zhang**, Ping Chen, Nan Gao, Yuanchun Shi, Yuntao Wang
+
+Scientific Data 2026
+
+<div class="extra-links">
+    <a href="https://www.nature.com/articles/s41597-026-07289-x" target="_blank" rel="noopener">
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    &nbsp;
+    <a href="https://github.com/thuhci/RingTool" target="_blank" rel="noopener">
+        <i class="fab fa-github" aria-hidden="true"></i> Code
+    </a>
+    &nbsp;
+    <a href="https://zenodo.org/records/18426864" target="_blank" rel="noopener">
+        <i class="fas fa-database" aria-hidden="true"></i> Dataset
+    </a>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><a class="paper-figure" href="/images/EarSAVAS.png" target="_blank" rel="noopener" title="View full publication figure"><img src="/images/publication-previews/EarSAVAS.png" alt="EarSAVAS publication figure" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables ![](https://img.shields.io/github/stars/thuhci/EarSAVAS?style=social)
@@ -274,7 +410,7 @@ Xingjian Tian, Lily Sheng, **Xiyuxing Zhang**, Xingru Chen, Fangfei Gou, Zhenzho
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Methods</div><img src='../images/HearCough.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Methods</div><a class="paper-figure" href="/images/publication-concepts/HearCough.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/HearCough.webp" alt="HearCough concept: a low-power Tiny-COUNET model detects cough events on a hearable chip" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <!-- --------------------------------------------------------------------------------------------------------------- -->
 
@@ -293,7 +429,7 @@ Yuntao Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Jay M Chakalasiya\*, Xuh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/Smartring_Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><a class="paper-figure" href="/images/publication-concepts/SmartRingSurvey.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/SmartRingSurvey.webp" alt="Computing with smart rings: a concept overview of input, feedback, health and activity sensing" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Computing with Smart Rings: A Systematic Literature Review
