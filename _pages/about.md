@@ -35,7 +35,7 @@ His research interest includes:
 - **2026.5**: Invited to serve as a member of Artifact Evaluation Committee for [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/).
 - **2026.4**: Co-organizing the 1st <a href="https://mobidx.health/" target="_blank"><img src="/images/mobidx-workshop-2026.png" width="80" alt="MobiDx workshop at MobiCom 2026"></a> Workshop on Hot Topics in Mobile and Wireless Systems for Health at MobiCom 2026, Austin, TX. Please consider submitting your work!!!
 - **2026.2**: &nbsp;🎉🎉 Two of our papers have been accepted by [ACM CHI EA '26](https://chi2026.acm.org/)!!!
-- **2026.1**: &nbsp;🎉🎉 Our paper [SonicSieve](https://arxiv.org/abs/2504.10793) and [LubdubDecoder](https://arxiv.org/abs/2509.10764) have been accepted by [ACM CHI'26](https://chi2026.acm.org/).
+- **2026.1**: &nbsp;🎉🎉 Our paper [SonicSieve](https://dl.acm.org/doi/10.1145/3772318.3790376) and [LubdubDecoder](https://dl.acm.org/doi/10.1145/3772318.3790445) have been accepted by [ACM CHI'26](https://chi2026.acm.org/).
 - **2025.12**: &nbsp;🎉🎉 Honored to receive [Outstanding Teaching Assistant Award](https://mp.weixin.qq.com/s/Esu36IaaQX1toLzvidCd2w) of Tsinghua University!!!
 - **2025.12**: &nbsp;🎉🎉 Honored to be supported by **China Association for Science and Technology’s Young Elite Scientists Sponsorship Program** (Doctoral Student Special Project)!!!
 - **2025.11**: &nbsp;🎉🎉 Awarded the **Third Prize** in the 4th Tsinghua Medicine x Engineering Competition (Translation Track) as the Project Leader for our work on Earable Sleep Management (one of only **7 winning teams out of 52**)!!!
@@ -99,7 +99,7 @@ Zhikai Qin, Siqi Zhang, Shuyi Zeng, **Xiyuxing Zhang**, Junyi Zhu, Justin Chan
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><a class="paper-figure" href="/images/SonicSieve.png" target="_blank" rel="noopener" title="View full publication figure"><img src='../images/SonicSieve.png' alt="SonicSieve publication figure" loading="lazy"></a></div></div>
+<div class="paper-box" id="paper-sonicsieve"><div class='paper-box-image'><div><div class="badge">CHI 2026</div><a class="paper-figure" href="/images/SonicSieve.png" target="_blank" rel="noopener" title="View full publication figure"><img src='../images/SonicSieve.png' alt="SonicSieve publication figure" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## SonicSieve: Bringing Directional Speech Extraction to Smartphones Using Acoustic Microstructures
@@ -109,11 +109,11 @@ Kuang Yuan\*, Yifeng Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Chengyi Sh
 [CHI '26](https://chi2026.acm.org/)
 
 <div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/abs/2504.10793" >
+    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3772318.3790376" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
     &nbsp;
-    <a class="_blank" href="https://youtu.be/ZXxkLvVxmDo">
+    <a class="_blank" href="https://www.youtube.com/watch?v=-qTwMZJU_Qg">
         <i class="fas fa-video" aria-hidden="true"></i> Video
     </a>
 </div>
@@ -121,7 +121,7 @@ Kuang Yuan\*, Yifeng Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Chengyi Sh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><a class="paper-figure" href="/images/publication-concepts/LubDubDecoder.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/LubDubDecoder.webp" alt="LubDubDecoder concept: reconstructing seismocardiogram and gyrocardiogram signals from ear-based cardiac sounds" loading="lazy"></a></div></div>
+<div class="paper-box" id="paper-lubdubdecoder"><div class='paper-box-image'><div><div class="badge">CHI 2026</div><a class="paper-figure" href="/images/publication-concepts/LubDubDecoder.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/LubDubDecoder.webp" alt="LubDubDecoder concept: reconstructing seismocardiogram and gyrocardiogram signals from ear-based cardiac sounds" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## LubDubDecoder: Bringing Micro-Mechanical Cardiac Monitoring to Hearables
@@ -131,7 +131,7 @@ Siqi Zhang\*, **Xiyuxing Zhang\***(\*Co-first Author), Duc Vu\*, Tao Qiang\*, Cl
 [CHI '26](https://chi2026.acm.org/)
 
 <div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/abs/2509.10764" >
+    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3772318.3790445" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
     &nbsp;
@@ -348,11 +348,9 @@ Weiye Xu, Zhang Jiang, Siqi Zheng, **Xiyuxing Zhang**, Changhao Zhang, Jian Liu,
 IMWUT 2026 / [UbiComp 2026](https://ubicomp.org/ubicomp-iswc-2026/)
 
 <div class="extra-links">
-    <a href="https://arxiv.org/pdf/2509.20799" target="_blank" rel="noopener">
+    <a href="/files/AuthGlass-2026.pdf" target="_blank" rel="noopener">
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
-    &nbsp;
-    <a href="https://arxiv.org/abs/2509.20799" target="_blank" rel="noopener">arXiv</a>
     &nbsp;
     <a href="https://github.com/xuy8w89/IMWUT2026-AuthGlass" target="_blank" rel="noopener">
         <i class="fab fa-github" aria-hidden="true"></i> Code
@@ -388,14 +386,14 @@ Scientific Data 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><a class="paper-figure" href="/images/EarSAVAS.png" target="_blank" rel="noopener" title="View full publication figure"><img src="/images/publication-previews/EarSAVAS.png" alt="EarSAVAS publication figure" loading="lazy"></a></div></div>
+<div class="paper-box" id="paper-earsavas"><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><a class="paper-figure" href="/images/EarSAVAS.png" target="_blank" rel="noopener" title="View full publication figure"><img src="/images/publication-previews/EarSAVAS.png" alt="EarSAVAS publication figure" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables ![](https://img.shields.io/github/stars/thuhci/EarSAVAS?style=social)
 
 **Xiyuxing Zhang**, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, Jiankai Tang, Xin Yi, Shwetak Patel, and Yuanchun Shi
 
-[IMWUT](http://imwut.acm.org/)
+IMWUT 2024 / [UbiComp 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
 
 <div class="extra-links">
     <a class="_blank" href="https://dl.acm.org/doi/10.1145/3659616" >
@@ -429,17 +427,17 @@ Yuntao Wang\*, **Xiyuxing Zhang\***(\*Co-first Author), Jay M Chakalasiya\*, Xuh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><a class="paper-figure" href="/images/publication-concepts/SmartRingSurvey.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/SmartRingSurvey.webp" alt="Computing with smart rings: a concept overview of input, feedback, health and activity sensing" loading="lazy"></a></div></div>
+<div class="paper-box" id="paper-smartring-survey"><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><a class="paper-figure" href="/images/publication-concepts/SmartRingSurvey.webp" target="_blank" rel="noopener" title="View concept illustration"><img src="/images/publication-concepts/SmartRingSurvey.webp" alt="Computing with smart rings: a concept overview of input, feedback, health and activity sensing" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Computing with Smart Rings: A Systematic Literature Review
 
 Zeyu Wang, Ruotong Yu, Xiangyang Wang, Jiexin Ding, Jiankai Tang, Jun Fang, Zhe He, Zhuojun Li, Tobias Röddiger, Weiye Xu, **Xiyuxing Zhang**, Nan Gao, Chun Yu, Yuanchun Shi, Yuntao Wang
 
-[IMWUT](http://imwut.acm.org/)
+IMWUT 2025 / [UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/)
 
 <div class="extra-links">
-    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3659616" >
+    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3749480" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
 </div>
