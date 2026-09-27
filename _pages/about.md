@@ -482,6 +482,7 @@ Zeyu Wang, Ruotong Yu, Xiangyang Wang, Jiexin Ding, Jiankai Tang, Jun Fang, Zhe 
 - *2024.09 - 2025.01*, Teaching Assistant of "Embedded System" (40240552), Tsinghua University.
 - *2024.09 - 2025.01*, Teaching Assistant of "Essentials to Signal Processing and Data Management for AIoT Applications" (86010053), Tsinghua University. (Outstanding Teaching Assistant Award, University Level)
 - *2025.09 - 2026.01*, Teaching Assistant of "Essentials to Signal Processing and Data Management for AIoT Applications" (86010053), Tsinghua University.
+- *2026.09 - 2027.01*, Teaching Assistant of "Essentials to Signal Processing and Data Management for AIoT Applications" (86010053), Tsinghua University.
 
 # 💗 Professional Services
 - Artifact Evaluation Committee of ACM MobiCom 2026
