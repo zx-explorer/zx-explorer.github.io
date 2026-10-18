@@ -27,6 +27,8 @@ His research interest includes:
 
 # 🔥 News
 
+- **2026.10**: &nbsp;🎉 Honored to be selected from graduate students across the world as a **finalist (top 4)** for the **Gaetano Borriello Outstanding Student Award** at [UbiComp 2026](https://ubicomp.org/ubicomp-iswc-2026/)! **Award citation:** “For pioneering commodity earables as everyday health companions through robust acoustic sensing, and for closing the loop from continuous health sensing to adaptive, personalized interventions.”
+- **2026.10**: &nbsp;🎉 Our paper [WeeCare](#paper-weecare) received the **Best Video Teaser Award** at [UbiComp/ISWC 2026](https://ubicomp.org/ubicomp-iswc-2026/)!
 - **2026.7**: &nbsp;🎉🎉 [EarInter](#paper-earinter), [VergeIO](#paper-vergeio), and [AuthGlass](#paper-authglass) have been accepted to [UbiComp 2026](https://ubicomp.org/ubicomp-iswc-2026/) (IMWUT)!
 - **2026.7**: &nbsp;🎉🎉 [WeeCare](#paper-weecare) has been accepted to [ISWC 2026](https://ubicomp.org/ubicomp-iswc-2026/)!
 - **2026.6**: &nbsp;🎉🎉 [Earmony](#paper-earmony) has been accepted to [UIST 2026](https://uist.acm.org/2026/)!
@@ -84,6 +86,8 @@ Lily Sheng\*, Ruiqi Hong\*, **Xiyuxing Zhang\***(\*Co-first Author), Yuntao Wang
 Zhikai Qin, Siqi Zhang, Shuyi Zeng, **Xiyuxing Zhang**, Junyi Zhu, Justin Chan
 
 [ISWC 2026](https://ubicomp.org/ubicomp-iswc-2026/)
+
+🏆 **Best Video Teaser Award**
 
 <div class="extra-links">
     <a href="/files/WeeCare-2026.pdf" target="_blank" rel="noopener">
@@ -450,6 +454,8 @@ IMWUT 2025 / [UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/)
 
 
 # 🎖 Honors and Awards
+- *2026* **Gaetano Borriello Outstanding Student Award Finalist (Top 4)**, UbiComp.<br><small><strong>Award citation:</strong> “For pioneering commodity earables as everyday health companions through robust acoustic sensing, and for closing the loop from continuous health sensing to adaptive, personalized interventions.”</small>
+- *2026* **Best Video Teaser Award** for [WeeCare](#paper-weecare), UbiComp/ISWC.
 - *2025* **China Association for Science and Technology’s Young Elite Scientists Sponsorship Program (Doctoral Student Special Project, National-level Talent Program)**, China.
 - *2025* **Outstanding Teaching Assistant Award**, Tsinghua University.
 - *2025* **Third Prize** in the 4th Tsinghua Medicine x Engineering Competition (Translation Track, Project Leader, Ranked 4 out of 52).
